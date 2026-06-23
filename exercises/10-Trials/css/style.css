@@ -1,0 +1,57 @@
+#p1{
+    color: green;
+}
+#sp1{
+    color: #f711f7;
+}
+#sp2{
+    color: #f711f7;
+}
+#sp3
+{
+    color: red;
+}
+#sp4{
+    color: goldenrod;
+}
+#sp5{
+    color: Blue;
+}
+#p4{
+    background-color: skyblue;
+}
+#sp6{
+    background-color: yellow;
+}
+#sp7{
+    font-weight:bold ;
+}
+#sp8{
+    font-weight:bold;
+}
+#sp9{
+    font-weight:bold;
+}
+#sp10{
+    text-decoration:underline;
+}
+#sp11{
+    text-decoration: underline;
+}
+#sp12{
+    font-size: 36px;
+}
+#sp13{
+    font-size: 12px;
+    font-weight:bold;
+}
+#sp14{
+    font-size: 48px;
+}
+#sp15{
+    font-size: 24px;
+    font-style: italic;
+}
+#p10{
+    text-align: center;
+}
