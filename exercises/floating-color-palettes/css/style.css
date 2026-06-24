@@ -1,0 +1,37 @@
+div {
+    margin: 24px;
+    padding: 24px;
+    text-align: center;
+    box-shadow: 6px 6px 12px #989898;
+}
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+#sky-blue {
+    background-color: #8ACDEA;
+}
+#Dim-Grey {
+    background-color: #746d75;
+}
+#Lavender-Mist {
+    background-color: #ede6f2;
+}
+#pink-orchid {
+    background-color: #E5BEED;
+}
+#soft-periwinkle {
+    background-color: #9593D9;
+}
+#wisteria-blue {
+    background-color: #7C90DB;
+}
+#Espresso {
+    background-color: #502419;
+}
+#Sage-green {
+    background-color: #7EA172;
+}
+#Dry-sage {
+    background-color: #C7CB85;
+}
