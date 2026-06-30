@@ -1,0 +1,41 @@
+#sidebar {
+    background-color: #333333;
+    color: white;
+    width: 45%;
+    min-height: 100vh;
+    padding: 24px;
+    display: inline-block;
+}
+#sidebar h4.chapter {
+    font-weight: bold;
+    font-size: 24px;
+}
+#sidebar .edit {
+    color: orange;
+    font-style: italic;
+}
+#sidebar .chapter.edit {
+    color: red;
+}
+#sidebar h4.chapter {
+    border: none;
+    margin: 5px;
+}
+#sidebar h4 {
+    border: solid 2px;
+    border-top: #333333;
+    border-right: #333333;
+    border-left: #333333;
+    padding: 5px;
+}
+#sidebar  li {
+    padding: 5px;
+}
+#sidebar + div {
+    display: inline-block;
+    width: 45%;
+    border: black;
+}
+#sidebar + div h4 {
+    border-bottom: solid;
+}
